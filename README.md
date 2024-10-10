@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/simple-network-configuration.git
+git clone (https://github.com/vishal-rathod-1/Simple-Network-Configuration.git)
 cd simple-network-configuration
 For Linux, ensure the system is set to use DHCP:
 
